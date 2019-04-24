@@ -1,0 +1,14 @@
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccessTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccessTest\bin\Debug\netcoreapp2.1\PlumberSystem.DataAccessTest.deps.json
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccessTest\bin\Debug\netcoreapp2.1\PlumberSystem.DataAccessTest.runtimeconfig.json
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccessTest\bin\Debug\netcoreapp2.1\PlumberSystem.DataAccessTest.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccessTest\bin\Debug\netcoreapp2.1\PlumberSystem.DataAccessTest.dll
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccessTest\bin\Debug\netcoreapp2.1\PlumberSystem.DataAccessTest.pdb
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccessTest\obj\Debug\netcoreapp2.1\PlumberSystem.DataAccessTest.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccessTest\obj\Debug\netcoreapp2.1\PlumberSystem.DataAccessTest.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccessTest\obj\Debug\netcoreapp2.1\PlumberSystem.DataAccessTest.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccessTest\obj\Debug\netcoreapp2.1\PlumberSystem.DataAccessTest.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccessTest\obj\Debug\netcoreapp2.1\PlumberSystem.DataAccessTest.dll
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccessTest\obj\Debug\netcoreapp2.1\PlumberSystem.DataAccessTest.pdb

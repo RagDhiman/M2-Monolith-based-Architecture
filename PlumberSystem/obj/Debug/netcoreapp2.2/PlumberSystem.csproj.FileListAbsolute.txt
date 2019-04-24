@@ -1,0 +1,14 @@
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem\bin\Debug\netcoreapp2.2\PlumberSystem.deps.json
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem\bin\Debug\netcoreapp2.2\PlumberSystem.runtimeconfig.json
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem\bin\Debug\netcoreapp2.2\PlumberSystem.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem\bin\Debug\netcoreapp2.2\PlumberSystem.dll
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem\bin\Debug\netcoreapp2.2\PlumberSystem.pdb
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem\obj\Debug\netcoreapp2.2\PlumberSystem.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem\obj\Debug\netcoreapp2.2\PlumberSystem.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem\obj\Debug\netcoreapp2.2\PlumberSystem.RazorAssemblyInfo.cache
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem\obj\Debug\netcoreapp2.2\PlumberSystem.RazorAssemblyInfo.cs
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem\obj\Debug\netcoreapp2.2\PlumberSystem.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem\obj\Debug\netcoreapp2.2\PlumberSystem.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem\obj\Debug\netcoreapp2.2\PlumberSystem.RazorTargetAssemblyInfo.cache
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem\obj\Debug\netcoreapp2.2\PlumberSystem.dll
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem\obj\Debug\netcoreapp2.2\PlumberSystem.pdb

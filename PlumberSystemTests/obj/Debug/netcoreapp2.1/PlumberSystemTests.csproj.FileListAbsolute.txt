@@ -1,0 +1,14 @@
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystemTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystemTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystemTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystemTests\bin\Debug\netcoreapp2.1\PlumberSystemTests.deps.json
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystemTests\bin\Debug\netcoreapp2.1\PlumberSystemTests.runtimeconfig.json
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystemTests\bin\Debug\netcoreapp2.1\PlumberSystemTests.runtimeconfig.dev.json
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystemTests\bin\Debug\netcoreapp2.1\PlumberSystemTests.dll
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystemTests\bin\Debug\netcoreapp2.1\PlumberSystemTests.pdb
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystemTests\obj\Debug\netcoreapp2.1\PlumberSystemTests.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystemTests\obj\Debug\netcoreapp2.1\PlumberSystemTests.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystemTests\obj\Debug\netcoreapp2.1\PlumberSystemTests.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystemTests\obj\Debug\netcoreapp2.1\PlumberSystemTests.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystemTests\obj\Debug\netcoreapp2.1\PlumberSystemTests.dll
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystemTests\obj\Debug\netcoreapp2.1\PlumberSystemTests.pdb

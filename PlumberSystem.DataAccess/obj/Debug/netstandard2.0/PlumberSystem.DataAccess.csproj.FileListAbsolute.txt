@@ -1,0 +1,9 @@
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccess\bin\Debug\netstandard2.0\PlumberSystem.DataAccess.deps.json
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccess\bin\Debug\netstandard2.0\PlumberSystem.DataAccess.dll
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccess\bin\Debug\netstandard2.0\PlumberSystem.DataAccess.pdb
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccess\obj\Debug\netstandard2.0\PlumberSystem.DataAccess.csprojAssemblyReference.cache
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccess\obj\Debug\netstandard2.0\PlumberSystem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccess\obj\Debug\netstandard2.0\PlumberSystem.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccess\obj\Debug\netstandard2.0\PlumberSystem.DataAccess.AssemblyInfo.cs
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccess\obj\Debug\netstandard2.0\PlumberSystem.DataAccess.dll
+C:\Users\ragub\Source\Repos\PlumberSystem\PlumberSystem\PlumberSystem.DataAccess\obj\Debug\netstandard2.0\PlumberSystem.DataAccess.pdb
